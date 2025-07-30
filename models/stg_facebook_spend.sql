@@ -5,4 +5,4 @@ SELECT
   campaign_id,
   country,
   campaign_spend_gbp
-FROM `lithe-sonar-467316-t5.raw_data.facebook`
+FROM `lithe-sonar-467316-t5.raw_datasets.facebook`
